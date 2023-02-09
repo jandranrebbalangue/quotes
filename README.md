@@ -1,2 +1,1 @@
-# quotes
-Generate a random quotes
+A beginner project written in Go to practice my Go skills
